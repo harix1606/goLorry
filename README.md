@@ -1,2 +1,0 @@
-# goLorry
-Mini-challenge
