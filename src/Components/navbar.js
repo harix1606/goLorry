@@ -12,12 +12,12 @@ function Navigation (){
 	return (
 		<Container>
 			<Navbar className="justify-content-center" fixed="top" bg="light" expand="lg">
-			  <Navbar.Brand href="#home">Go Lorry</Navbar.Brand>
+			  <Navbar.Brand href="#home">Tour of the world</Navbar.Brand>
 			  <Navbar.Toggle aria-controls="basic-navbar-nav" />
 			  <Navbar.Collapse id="basic-navbar-nav">
 			    <Nav className="mr-auto">
 			      <Nav.Link href="#home">Home</Nav.Link>
-			      <Nav.Link href="#link">Favourites</Nav.Link>			      
+			      <Nav.Link href="#favorites">Favourite Places</Nav.Link>			      
 			    </Nav>
 			    <Form inline>
 			      <FormControl type="text" placeholder="Search" className="mr-sm-2" />
@@ -25,7 +25,12 @@ function Navigation (){
 			    </Form>
 			  </Navbar.Collapse>
 			</Navbar>
+			&nbsp;&nbsp;&nbsp;&nbsp;
+			<br></br>
+			
 		</Container>
+
+
 
 		);
 
