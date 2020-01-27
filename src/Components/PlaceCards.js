@@ -15,10 +15,9 @@ function Places(){
 			  <Card>
 				<Card.Img variant="top" src="holder.js/100px160" />
 				<Card.Body>
-				  <Card.Title>Card title</Card.Title>
+				  <Card.Title>Los Angeles</Card.Title>
 				  <Card.Text>
-					This is a wider card with supporting text below as a natural lead-in to
-					additional content. This content is a little bit longer.
+					Los Angeles is a sprawling Southern California city and the center of the nation’s film and television industry. Near its iconic Hollywood sign, studios such as Paramount Pictures, Universal and Warner Brothers offer behind-the-scenes tours.
 				  </Card.Text>
 				</Card.Body>
 				<Card.Footer>
@@ -28,10 +27,9 @@ function Places(){
 			  <Card>
 				<Card.Img variant="top" src="holder.js/100px160" />
 				<Card.Body>
-				  <Card.Title>Card title</Card.Title>
+				  <Card.Title>London</Card.Title>
 				  <Card.Text>
-					This card has supporting text below as a natural lead-in to additional
-					content.{' '}
+					London, the capital of England and the United Kingdom, is a 21st-century city with history stretching back to Roman times. At its centre stand the imposing Houses of Parliament, the iconic ‘Big Ben’ clock tower and Westminster Abbey, site of British monarch coronations.
 				  </Card.Text>
 				</Card.Body>
 				<Card.Footer>
@@ -41,11 +39,9 @@ function Places(){
 			  <Card>
 				<Card.Img variant="top" src="holder.js/100px160" />
 				<Card.Body>
-				  <Card.Title>Card title</Card.Title>
+				  <Card.Title>Mumbai</Card.Title>
 				  <Card.Text>
-					This is a wider card with supporting text below as a natural lead-in to
-					additional content. This card has even longer content than the first to
-					show that equal height action.
+					Mumbai (formerly called Bombay) is a densely populated city on India’s west coast. A financial center, it's India's largest city. On the Mumbai Harbour waterfront stands the iconic Gateway of India stone arch, built by the British Raj in 1924.
 				  </Card.Text>
 				</Card.Body>
 				<Card.Footer>
@@ -64,10 +60,9 @@ function Places(){
 			  <Card>
 				<Card.Img variant="top" src="holder.js/100px160" />
 				<Card.Body>
-				  <Card.Title>Card title</Card.Title>
+				  <Card.Title>Cape Town</Card.Title>
 				  <Card.Text>
-					This is a wider card with supporting text below as a natural lead-in to
-					additional content. This content is a little bit longer.
+					Cape Town is a port city on South Africa’s southwest coast, on a peninsula beneath the imposing Table Mountain. Slowly rotating cable cars climb to the mountain’s flat top, from which there are sweeping views of the city, the busy harbor and boats heading for Robben Island.
 				  </Card.Text>
 				</Card.Body>
 				<Card.Footer>
@@ -75,76 +70,22 @@ function Places(){
 				</Card.Footer>
 			  </Card>
 			  <Card>
-				<Card.Img variant="top" src="holder.js/100px160" />
+				<Card.Img src="/../images/ny.jpg" />
+				<Card.ImgOverlay>
 				<Card.Body>
-				  <Card.Title>Card title</Card.Title>
+				  <Card.Title>New York</Card.Title>
 				  <Card.Text>
-					This card has supporting text below as a natural lead-in to additional
-					content.{' '}
+					New York City comprises 5 boroughs sitting where the Hudson River meets the Atlantic Ocean. At its core is Manhattan, a densely populated borough that’s among the world’s major commercial, financial and cultural centers.
 				  </Card.Text>
 				</Card.Body>
-				<Card.Footer>
-				  <small className="text-muted">Last updated 3 mins ago</small>
-				</Card.Footer>
+				</Card.ImgOverlay>				
 			  </Card>
 			  <Card>
 				<Card.Img variant="top" src="holder.js/100px160" />
 				<Card.Body>
-				  <Card.Title>Card title</Card.Title>
+				  <Card.Title>Norway</Card.Title>
 				  <Card.Text>
-					This is a wider card with supporting text below as a natural lead-in to
-					additional content. This card has even longer content than the first to
-					show that equal height action.
-				  </Card.Text>
-				</Card.Body>
-				<Card.Footer>
-				  <small className="text-muted">Last updated 3 mins ago</small>
-				</Card.Footer>
-			  </Card>
-			</CardDeck>
-		</Col>
-		</Row>
-
-		&nbsp;&nbsp;&nbsp;&nbsp;
-
-		<Row>
-		<Col>
-
-			<CardDeck>
-			  <Card>
-				<Card.Img variant="top" src="holder.js/100px160" />
-				<Card.Body>
-				  <Card.Title>Card title</Card.Title>
-				  <Card.Text>
-					This is a wider card with supporting text below as a natural lead-in to
-					additional content. This content is a little bit longer.
-				  </Card.Text>
-				</Card.Body>
-				<Card.Footer>
-				  <small className="text-muted">Last updated 3 mins ago</small>
-				</Card.Footer>
-			  </Card>
-			  <Card>
-				<Card.Img variant="top" src="holder.js/100px160" />
-				<Card.Body>
-				  <Card.Title>Card title</Card.Title>
-				  <Card.Text>
-					This card has supporting text below as a natural lead-in to additional
-					content.{' '}
-				  </Card.Text>
-				</Card.Body>
-				<Card.Footer>
-				  <small className="text-muted">Last updated 3 mins ago</small>
-				</Card.Footer>
-			  </Card>
-			  <Card>
-				<Card.Img variant="top" src="holder.js/100px160" />
-				<Card.Body>
-				  <Card.Title>Card title</Card.Title>
-				  <Card.Text>
-					This is a wider card with supporting text below as a natural lead-in to
-					additional content. This card has even longer content than the first to
-					show that equal height action.
+					Norway is a Scandinavian country encompassing mountains, glaciers and deep coastal fjords. Oslo, the capital, is a city of green spaces and museums. Preserved 9th-century Viking ships are displayed at Oslo’s Viking Ship Museum.
 				  </Card.Text>
 				</Card.Body>
 				<Card.Footer>
@@ -164,10 +105,9 @@ function Places(){
 			  <Card>
 				<Card.Img variant="top" src="holder.js/100px160" />
 				<Card.Body>
-				  <Card.Title>Card title</Card.Title>
+				  <Card.Title>New Zealand</Card.Title>
 				  <Card.Text>
-					This is a wider card with supporting text below as a natural lead-in to
-					additional content. This content is a little bit longer.
+					New Zealand is a sovereign island country in the southwestern Pacific Ocean. The country has two main landmasses—the North Island, and the South Island —and around 600 smaller islands.
 				  </Card.Text>
 				</Card.Body>
 				<Card.Footer>
@@ -177,10 +117,9 @@ function Places(){
 			  <Card>
 				<Card.Img variant="top" src="holder.js/100px160" />
 				<Card.Body>
-				  <Card.Title>Card title</Card.Title>
+				  <Card.Title>Kenya</Card.Title>
 				  <Card.Text>
-					This card has supporting text below as a natural lead-in to additional
-					content.{' '}
+					Kenya is a country in East Africa with coastline on the Indian Ocean. It encompasses savannah, lakelands, the dramatic Great Rift Valley and mountain highlands. It's also home to wildlife like lions, elephants and rhinos. From Nairobi, the capital, safaris visit the Maasai Mara Reserve, known for its annual wildebeest migrations.
 				  </Card.Text>
 				</Card.Body>
 				<Card.Footer>
@@ -190,11 +129,55 @@ function Places(){
 			  <Card>
 				<Card.Img variant="top" src="holder.js/100px160" />
 				<Card.Body>
-				  <Card.Title>Card title</Card.Title>
+				  <Card.Title>Hong Kong</Card.Title>
 				  <Card.Text>
-					This is a wider card with supporting text below as a natural lead-in to
-					additional content. This card has even longer content than the first to
-					show that equal height action.
+					Hong Kong, officially the Hong Kong Special Administrative Region of the People's Republic of China, is a special administrative region on the eastern side of the Pearl River estuary in southern China.
+				  </Card.Text>
+				</Card.Body>
+				<Card.Footer>
+				  <small className="text-muted">Last updated 3 mins ago</small>
+				</Card.Footer>
+			  </Card>
+			</CardDeck>
+		</Col>
+		</Row>
+
+		&nbsp;&nbsp;&nbsp;&nbsp;
+
+		<Row>
+		<Col>
+
+			<CardDeck>
+			  <Card>
+				<Card.Img variant="top" src="holder.js/100px160" />
+				<Card.Body>
+				  <Card.Title>Greece</Card.Title>
+				  <Card.Text>
+					Greece is a country in southeastern Europe with thousands of islands throughout the Aegean and Ionian seas. Influential in ancient times, it's often called the cradle of Western civilization. Athens, its capital, retains landmarks including the 5th-century B.C. Acropolis citadel with the Parthenon temple. Greece is also known for its beaches, from the black sands of Santorini to the party resorts of Mykonos.
+				  </Card.Text>
+				</Card.Body>
+				<Card.Footer>
+				  <small className="text-muted">Last updated 3 mins ago</small>
+				</Card.Footer>
+			  </Card>
+			  <Card>
+				<Card.Img variant="top" src="holder.js/100px160" />
+				<Card.Body>
+				  <Card.Title>Maldives</Card.Title>
+				  <Card.Text>
+					 The Maldives, where sands are white as the smiles of the locals, where fish swim happily in the warm waters of the Indian Ocean, where the weather is a dream, and the deep rays of the sun wait to engulf you in their arms.
+				  </Card.Text>
+				</Card.Body>
+				<Card.Footer>
+				  <small className="text-muted">Last updated 3 mins ago</small>
+				</Card.Footer>
+			  </Card>
+			  <Card>
+				<Card.Img variant="top" src="holder.js/100px160" />
+				<Card.Body>
+				  <Card.Title>Bhutan</Card.Title>
+				  <Card.Text>
+					Bhutan, a Buddhist kingdom on the Himalayas’ eastern edge, is known for its monasteries, fortresses (or dzongs) and dramatic landscapes that range from subtropical plains to steep mountains and valleys.
 				  </Card.Text>
 				</Card.Body>
 				<Card.Footer>
