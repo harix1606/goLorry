@@ -26,7 +26,7 @@ function Navigation (){
 			  </Navbar.Collapse>
 			</Navbar>
 			&nbsp;&nbsp;&nbsp;&nbsp;
-			<br></br>
+			
 			
 		</Container>
 
